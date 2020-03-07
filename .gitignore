@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+comment_data/
+notebook/
+playground/
+
+*.json
+Pipfile.lock
