@@ -1,0 +1,2 @@
+# youtube_live-highlighter
+Youtubeの生放送アーカイブのコメントを元に盛り上がったと思われる箇所を表示するプログラム
